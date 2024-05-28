@@ -15,22 +15,32 @@ $(document).ready(function () {
   $("#memberdirectorybtn").focus();
   $("#orgchart").hide();
   $("#groupphoto").hide();
+  $("#Awards").hide();
 
   $("#memberdirectorybtn").click(function () {
     $("#memberdirectory").show();
     $("#orgchart").hide();
     $("#groupphoto").hide();
+    $("#Awards").hide();
   });
 
   $("#orgchartbtn").click(function () {
     $("#memberdirectory").hide();
     $("#groupphoto").hide();
     $("#orgchart").show();
+    $("#Awards").hide();
   });
 
   $("#groupphotobtn").click(()=>{
     $("#groupphoto").show();
     $("#memberdirectory").hide();
     $("#orgchart").hide();
+    $("#Awards").hide();
+  })
+  $("#awardsbtn").click(()=>{
+    $("#groupphoto").hide();
+    $("#memberdirectory").hide();
+    $("#orgchart").hide();
+    $("#Awards").show();
   })
 });
