@@ -105,7 +105,7 @@
             "imageLink": "WilliamZhang.jpg",
             "firstName": "William",
             "lastName": "Zhang",
-            "grade": "11",
+            "grade": "12",
             "hobbies": "I typically play the violin, do olympiad chemistry (USNCO), competitive programming (USACO, Codeforces, ACSL), run cross country/track, journal, coach science olympiad and build Android apps in my free time as fun hobbies.",
             "csExperience": "Java (Swing, JavaFX, Spring), C++ (standard library), Python (numpy and pandas libraries)"
         },
@@ -113,7 +113,7 @@
             "imageLink": "EthanShao.jpg",
             "firstName": "Ethan",
             "lastName": "Shao",
-            "grade": "11",
+            "grade": "12",
             "hobbies": "Robotics, Biking, Chess",
             "csExperience": "Python, HTML, CSS"
         },
@@ -121,7 +121,7 @@
             "imageLink": "KevinZhu.jpg",
             "firstName": "Kevin",
             "lastName": "Zhu",
-            "grade": "11",
+            "grade": "12",
             "hobbies": "3D Printing, Soccer",
             "csExperience": "JavaScript/TypeScript for web dev, C++ for competitive programming"
         },
@@ -129,7 +129,7 @@
             "imageLink": "JerryXu.jpg",
             "firstName": "Jerry",
             "lastName": "Xu",
-            "grade": "10",
+            "grade": "11",
             "hobbies": "MTG, ping-pong",
             "csExperience": "Java, Python, HTML, CSS"
         },
@@ -137,7 +137,7 @@
             "imageLink": "Yuanheng.jpg",
             "firstName": "Yuanheng",
             "lastName": "Mao",
-            "grade": "10",
+            "grade": "11",
             "hobbies": "Soccer, Computer Science, Tennis",
             "csExperience": "Processing, Arduino, Java, Python, basics of HTML and Javascript"
         }
@@ -147,7 +147,7 @@
             "imageLink": "Lucas.jpg",
             "firstName": "Lucas",
             "lastName": "Zheng",
-            "grade": "10",
+            "grade": "11",
             "hobbies": "Playing video games, hanging out with friends, lock picking",
             "csExperience": "Java, processing, some python(self-taught)"
         },
@@ -157,7 +157,7 @@
             "lastName": "Wang",
             "grade": "10",
             "hobbies": "Fencing, photography",
-            "csExperience": "JavaScript/TypeScript for web dev, Python for competitive programming"
+            "csExperience": "JavaScript for web dev, Python for competitive programming"
         }
     ]
 }
