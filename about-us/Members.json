@@ -150,6 +150,14 @@
             "grade": "10",
             "hobbies": "Playing video games, hanging out with friends, lock picking",
             "csExperience": "Java, processing, some python(self-taught)"
+        },
+        {
+            "imageLink": "JustinWang.jpg",
+            "firstName": "Justin",
+            "lastName": "Wang",
+            "grade": "10",
+            "hobbies": "Fencing, photography",
+            "csExperience": "JavaScript/TypeScript for web dev, Python for competitive programming"
         }
     ]
 }
