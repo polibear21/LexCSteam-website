@@ -44,29 +44,7 @@ class Nav extends HTMLElement {
                             <li class="nav-item"><a class="nav-link ${document.title === homepage ? "on-page" : ""}" href="${document.title === homepage ? "#Mission" : "index.html#Mission"}">Our Mission</a></li>
                             <li class="nav-item"><a class="nav-link ${document.title === "About Us" ? "active on-page" : ""}" href="aboutus.html">About Us</a></li>
                             <li class="nav-item">
-                                <div class="dropdown">
-                                    <a onclick="dropdown()" class="dropbtn nav-link ${projectPages.includes(document.title) ? "active" : ""}">Projects</a>
-                                    <div id="myDropdown" class="dropdown-content">
-                                        <a href="chirp.html">ChiRP Project</a>
-                                        <a href="harrington.html">Harrington PTA</a>
-                                        <a href="cel.html">CEL Data Analysis</a>
-                                        <a href="patriots.html">Patriots Day</a>
-                                        <a href="hotspots.html">Hotspots</a>
-                                        <a href="ttalk.html">Dr. Ting's Talk</a>
-                                        <a href="helpfulHands.html">Helpful Hands</a>
-                                        <a href="lexHeroes.html">Lexington Heroes</a>
-                                        <a href="lnyweb.html">Lunar New Year Gala Website</a>
-                                        <a href="photoExhibition.html">Photography Exhibition</a>
-                                        <a href="twcredits.html">Team Website Improvement</a>
-                                        <a href="logoVote.html">Logo Voting</a>
-                                        <a href="AAPI.html">AAPI Website</a>
-                                        <a href="lunarArts.html">Lunar Arts</a>
-                                        <a href="volleyball.html">Volleyball Website</a>
-                                        <a href="lexObserver.html">Lexington Observer</a> 
-                                        <a href="seminar.html">Senior Seminar</a>
-                                        <a href="lexingtonLyceum.html">Lexington Lyceum Project</a>
-                                    </div>
-                                </div>
+                            <li class="nav-item"><a class="nav-link ${document.title === "Projects" ? "active on-page" : ""}" href="Projects.html">Projects</a></li>    
                             </li>
                             <li class="nav-item"><a class="nav-link ${document.title === "Team Activities" ? "active on-page" : ""}" href="activity.html">Team Activity</a></li>
                             <li class="nav-item"><a class="nav-link ${document.title === "Learning Center" ? "active on-page" : ""}" href="learning-center.html">Learning Center</a></li>
