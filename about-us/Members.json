@@ -152,6 +152,14 @@
             "csExperience": "Java, processing, some python(self-taught)"
         },
         {
+            "imageLink": "RenLin.jpg",
+            "firstName": "Ren",
+            "lastName": "Lin",
+            "grade": "10",
+            "hobbies": "Volleyball, Web and Game Dev",
+            "csExperience": "Java, C++, and C#"
+        },
+        {
             "imageLink": "JustinWang.jpg",
             "firstName": "Justin",
             "lastName": "Wang",
