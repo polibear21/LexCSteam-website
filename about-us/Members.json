@@ -66,41 +66,7 @@
             ]
         }
     ],
-    "founding": [
-        {
-            "imageLink": "Baoren.jpg",
-            "firstName": "Baoren",
-            "lastName": "Liu",
-            "grade": "12",
-            "hobbies": "Tennis, Piano, Video Games, and Biking",
-            "csExperience": "Website development with HTML, JavaScript, CSS, ReactJS framework and Firebase. Made scripts using Python, developed Android Apps with Java. Familiar with C++ and also got a 5 on the AP CS A Exam"
-        }
-    ],
     "leader": [
-        {
-            "imageLink": "IvyTang.png",
-            "firstName": "Ivy",
-            "lastName": "Tang",
-            "grade": "12",
-            "hobbies": "Reading, hanging out with friends, and tutoring",
-            "csExperience": "Java and Python"
-        },
-        {
-            "imageLink": "AlexLau.png",
-            "firstName": "Alex",
-            "lastName": "Lau",
-            "grade": "12",
-            "hobbies": "biking, volleyball, tennis, badminton, video games, hiking, canoeing, camping, backpacking",
-            "csExperience": "Python and Java"
-        },
-        {
-            "imageLink": "IreneGao.png",
-            "firstName": "Irene",
-            "lastName": "Gao",
-            "grade": "12",
-            "hobbies": "I enjoy reading novels, drawing digitally, watching ballet, doing crew and learning languages in my spare time.",
-            "csExperience": "I am currently the Gold level for the USACO competition and I am comfortable to program in Java, Python and C++, some web development."
-        },
         {
             "imageLink": "WilliamZhang.jpg",
             "firstName": "William",
@@ -110,10 +76,18 @@
             "csExperience": "Java (Swing, JavaFX, Spring), C++ (standard library), Python (numpy and pandas libraries)"
         },
         {
+            "imageLink": "Yuanheng.jpg",
+            "firstName": "Yuanheng",
+            "lastName": "Mao",
+            "grade": "11",
+            "hobbies": "Track, Raspberry Pi/Arduino Robotics, Piano, Reading",
+            "csExperience": "Java, Python, Processing, HTML, CSS, JavaScript"
+        },
+        {
             "imageLink": "EthanShao.jpg",
             "firstName": "Ethan",
             "lastName": "Shao",
-            "grade": "12",
+            "grade": "11",
             "hobbies": "Robotics, Biking, Chess",
             "csExperience": "Python, HTML, CSS"
         },
@@ -132,15 +106,8 @@
             "grade": "11",
             "hobbies": "math, biology, history, MTG, ping-pong, hiking",
             "csExperience": "Java, Python, HTML, CSS, JavaScript, AI-related technologies (RAG and ReAct Agent), arduino"
-        },
-        {
-            "imageLink": "Yuanheng.jpg",
-            "firstName": "Yuanheng",
-            "lastName": "Mao",
-            "grade": "11",
-            "hobbies": "Track, Raspberry Pi/Arduino Robotics, Piano, Reading",
-            "csExperience": "Java, Python, Processing, HTML, CSS, JavaScript"
         }
+        
     ],
     "member": [
         {

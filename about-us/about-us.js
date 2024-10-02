@@ -2,7 +2,6 @@ function renderPeople() {
   $.getJSON("about-us/Members.json", function (members) {
     $.get("about-us/member.hbs", function (template) {
       const peopleTemplate = Handlebars.compile(template);
-      $("#founding").append(peopleTemplate(members.founding));
       $("#leader").append(peopleTemplate(members.leader));
       $("#member").append(peopleTemplate(members.member));
     });
