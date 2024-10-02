@@ -130,8 +130,8 @@
             "firstName": "Jerry",
             "lastName": "Xu",
             "grade": "11",
-            "hobbies": "MTG, ping-pong",
-            "csExperience": "Java, Python, HTML, CSS"
+            "hobbies": "math, biology, history, MTG, ping-pong, hiking",
+            "csExperience": "Java, Python, HTML, CSS, JavaScript, AI-related technologies (RAG and ReAct Agent), arduino"
         },
         {
             "imageLink": "Yuanheng.jpg",
@@ -158,6 +158,126 @@
             "grade": "10",
             "hobbies": "Volleyball, Web and Game Dev",
             "csExperience": "Java, C++, and C#"
+        },
+        {
+            "imageLink": "StephenYang.JPG",
+            "firstName": "Stephen",
+            "lastName": "Yang",
+            "grade": "8",
+            "hobbies": "Piano, Saxophone, Soccer, Basketball, Swimming, Tennis, Reading, Biking",
+            "csExperience": "HTML, CSS, A bit of JS and Python"
+        },
+        {
+            "imageLink": "ClaireLiu.jpg",
+            "firstName": "Claire",
+            "lastName": "Liu",
+            "grade": "11",
+            "hobbies": "Dance, flute, read, draw",
+            "csExperience": "Java, Python, HTML"
+        },
+        {
+            "imageLink": "WilliamYang.jpeg",
+            "firstName": "William",
+            "lastName": "Yang",
+            "grade": "9",
+            "hobbies": "I love playing tennis, keeping saltwater aquariums, playing the cello, and playing video games.",
+            "csExperience": "Java, Python"
+        },
+        {
+            "imageLink": "SophiaZhou.jpeg",
+            "firstName": "Sophia",
+            "lastName": "Zhou",
+            "grade": "placeholder",
+            "hobbies": "I enjoy reading and playing video games.",
+            "csExperience": "placeholder"
+        },
+        {
+            "imageLink": "AndrewGu.HEIC",
+            "firstName": "Andrew",
+            "lastName": "Gu",
+            "grade": "11",
+            "hobbies": "Soccer, Track & Field",
+            "csExperience": "Java, C++"
+        },
+        {
+            "imageLink": "Isabella.jpeg",
+            "firstName": "Isabella",
+            "lastName": "Li",
+            "grade": "10",
+            "hobbies": "music, learning languages, anime",
+            "csExperience": "C++, Python, HTML, CSS"
+        },
+        {
+            "imageLink": "DylanFu.heic",
+            "firstName": "Dylan",
+            "lastName": "Fu",
+            "grade": "10",
+            "hobbies": "Running, Tennis, Violin",
+            "csExperience": "Python, Java"
+        },
+        {
+            "imageLink": "JasmineGu.jpg",
+            "firstName": "Jasmine",
+            "lastName": "Gu",
+            "grade": "placeholder",
+            "hobbies": "violin, spending time with friends, watching documentaries",
+            "csExperience": "Java, C++, Python, HTML"
+        },
+        {
+            "imageLink": "JiaweiLiu.heic",
+            "firstName": "Jiawei",
+            "lastName": "Liu",
+            "grade": "8",
+            "hobbies": "Math, Basketball, Geography, Swimming, Badminton, Ping Pong, Writing, Piano",
+            "csExperience": "placeholder"
+        },
+        {
+            "imageLink": "JoleyLeung.png",
+            "firstName": "Joley",
+            "lastName": "Leung",
+            "grade": "11",
+            "hobbies": "Doodling, Baking and Dancing",
+            "csExperience": "Photoshop, Illustrator, Java, Python"
+        },
+        {
+            "imageLink": "EmmaHe.jpeg",
+            "firstName": "Emma",
+            "lastName": "He",
+            "grade": "placeholder",
+            "hobbies": "Dance, Flute, Poetry",
+            "csExperience": "Python & Java"
+        },
+        {
+            "imageLink": "MichaelHe.jpeg",
+            "firstName": "Michael",
+            "lastName": "He",
+            "grade": "11",
+            "hobbies": "coding, math, track and field, and reading",
+            "csExperience": "placeholder"
+        },
+        {
+            "imageLink": "AndrewPanPlaceholder",
+            "firstName": "Andrew",
+            "lastName": "Pan",
+            "grade": "placeholder",
+            "hobbies": "placeholder",
+            "csExperience": "placeholder"
+        },
+        {
+            "imageLink": "AndrewWuPlaceholder",
+            "firstName": "Andrew",
+            "lastName": "Wu",
+            "grade": "placeholder",
+            "hobbies": "placeholder",
+            "csExperience": "placeholder"
+        },
+        {
+            "imageLink": "AndrewZhao.jpg",
+            "firstName": "Andrew",
+            "lastName": "Zhao",
+            "grade": "9",
+            "hobbies": "Volleyball, camping, fishing",
+            "csExperience": "Java, C++"
         },
         {
             "imageLink": "JustinWang.jpg",
