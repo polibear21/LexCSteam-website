@@ -100,14 +100,53 @@
             "csExperience": "JavaScript/TypeScript for web dev, C++ for competitive programming"
         },
         {
+            "imageLink": "EmmaHe.jpeg",
+            "firstName": "Emma",
+            "lastName": "He",
+            "grade": "11",
+            "hobbies": "Dance, Flute, Poetry",
+            "csExperience": "Python & Java"
+        },
+        {
+            "imageLink": "ClaireLiu.jpg",
+            "firstName": "Claire",
+            "lastName": "Liu",
+            "grade": "11",
+            "hobbies": "Dance, flute, read, draw",
+            "csExperience": "Java, Python, HTML"
+        },
+        {
+            "imageLink": "SophiaZhou.jpeg",
+            "firstName": "Sophia",
+            "lastName": "Zhou",
+            "grade": "11",
+            "hobbies": "I enjoy reading and playing video games.",
+            "csExperience": "Python, Java, Javascript"
+        },
+        {
+            "imageLink": "JoleyLeung.png",
+            "firstName": "Joley",
+            "lastName": "Leung",
+            "grade": "11",
+            "hobbies": "Doodling, Baking and Dancing",
+            "csExperience": "Photoshop, Illustrator, Java, Python"
+        },
+        {
             "imageLink": "JerryXu.jpg",
             "firstName": "Jerry",
             "lastName": "Xu",
             "grade": "11",
             "hobbies": "math, biology, history, MTG, ping-pong, hiking",
             "csExperience": "Java, Python, HTML, CSS, JavaScript, AI-related technologies (RAG and ReAct Agent), arduino"
+        },
+        {
+            "imageLink": "JustinWang.jpg",
+            "firstName": "Justin",
+            "lastName": "Wang",
+            "grade": "10",
+            "hobbies": "Fencing, photography",
+            "csExperience": "JavaScript for web dev, Python for competitive programming"
         }
-        
     ],
     "member": [
         {
@@ -135,28 +174,12 @@
             "csExperience": "HTML, CSS, A bit of JS and Python"
         },
         {
-            "imageLink": "ClaireLiu.jpg",
-            "firstName": "Claire",
-            "lastName": "Liu",
-            "grade": "11",
-            "hobbies": "Dance, flute, read, draw",
-            "csExperience": "Java, Python, HTML"
-        },
-        {
             "imageLink": "WilliamYang.jpeg",
             "firstName": "William",
             "lastName": "Yang",
             "grade": "9",
             "hobbies": "I love playing tennis, keeping saltwater aquariums, playing the cello, and playing video games.",
             "csExperience": "Java, Python"
-        },
-        {
-            "imageLink": "SophiaZhou.jpeg",
-            "firstName": "Sophia",
-            "lastName": "Zhou",
-            "grade": "placeholder",
-            "hobbies": "I enjoy reading and playing video games.",
-            "csExperience": "placeholder"
         },
         {
             "imageLink": "AndrewGu.HEIC",
@@ -199,22 +222,6 @@
             "csExperience": "placeholder"
         },
         {
-            "imageLink": "JoleyLeung.png",
-            "firstName": "Joley",
-            "lastName": "Leung",
-            "grade": "11",
-            "hobbies": "Doodling, Baking and Dancing",
-            "csExperience": "Photoshop, Illustrator, Java, Python"
-        },
-        {
-            "imageLink": "EmmaHe.jpeg",
-            "firstName": "Emma",
-            "lastName": "He",
-            "grade": "placeholder",
-            "hobbies": "Dance, Flute, Poetry",
-            "csExperience": "Python & Java"
-        },
-        {
             "imageLink": "MichaelHe.jpeg",
             "firstName": "Michael",
             "lastName": "He",
@@ -245,14 +252,6 @@
             "grade": "9",
             "hobbies": "Volleyball, camping, fishing",
             "csExperience": "Java, C++"
-        },
-        {
-            "imageLink": "JustinWang.jpg",
-            "firstName": "Justin",
-            "lastName": "Wang",
-            "grade": "10",
-            "hobbies": "Fencing, photography",
-            "csExperience": "JavaScript for web dev, Python for competitive programming"
         }
     ]
 }
