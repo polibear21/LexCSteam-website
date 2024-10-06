@@ -1,0 +1,21 @@
+.projectlink {
+    transition-duration: 0.2s;
+    font-size:20px;
+    padding:10px;
+    padding-top:30px;
+    padding-bottom:15px;
+  }
+  
+  .projectlink:hover {
+    background-color: rgb(69, 193, 242);
+    color: white;
+    border-width:20px;
+    border-radius:10px;
+    opacity:0.8;
+  }
+  .projectimage {
+    margin-bottom:25px;
+    margin-left:20px;
+    margin-top:15px;
+    border-radius:5px;
+  }
