@@ -108,6 +108,14 @@
             "csExperience": "Python & Java"
         },
         {
+            "imageLink": "LillianYang.jpeg",
+            "firstName": "Lillian",
+            "lastName": "Yang",
+            "grade": "11",
+            "hobbies": "Debate, Piano, and Skating",
+            "csExperience": "HTML, Java"
+        },
+        {
             "imageLink": "ClaireLiu.jpg",
             "firstName": "Claire",
             "lastName": "Liu",
