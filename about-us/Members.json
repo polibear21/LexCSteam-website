@@ -206,7 +206,7 @@
             "csExperience": "C++, Python, HTML, CSS"
         },
         {
-            "imageLink": "DylanFu.heic",
+            "imageLink": "DylanFu.jpg",
             "firstName": "Dylan",
             "lastName": "Fu",
             "grade": "10",
@@ -222,12 +222,12 @@
             "csExperience": "Java, C++, Python, HTML"
         },
         {
-            "imageLink": "JiaweiLiu.heic",
+            "imageLink": "JiaweiLiu.jpg",
             "firstName": "Jiawei",
             "lastName": "Liu",
             "grade": "8",
             "hobbies": "Math, Basketball, Geography, Swimming, Badminton, Ping Pong, Writing, Piano",
-            "csExperience": "placeholder"
+            "csExperience": "Python, HTML"
         },
         {
             "imageLink": "MichaelHe.jpeg",
@@ -235,7 +235,7 @@
             "lastName": "He",
             "grade": "11",
             "hobbies": "coding, math, track and field, and reading",
-            "csExperience": "placeholder"
+            "csExperience": "Java, C++, and some Python"
         },
         {
             "imageLink": "AndrewPanPlaceholder",
@@ -246,12 +246,12 @@
             "csExperience": "placeholder"
         },
         {
-            "imageLink": "AndrewWuPlaceholder",
+            "imageLink": "AndrewWu.png",
             "firstName": "Andrew",
             "lastName": "Wu",
-            "grade": "placeholder",
-            "hobbies": "placeholder",
-            "csExperience": "placeholder"
+            "grade": "10",
+            "hobbies": "History, economics, hanging out with friends",
+            "csExperience": "Java, HTML"
         },
         {
             "imageLink": "AndrewZhao.jpg",
