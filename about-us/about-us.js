@@ -15,12 +15,15 @@ $(document).ready(function () {
   $("#orgchart").hide();
   $("#groupphoto").hide();
   $("#Awards").hide();
+  $("#resources").hide();
 
   $("#memberdirectorybtn").click(function () {
     $("#memberdirectory").show();
     $("#orgchart").hide();
     $("#groupphoto").hide();
     $("#Awards").hide();
+    $("#resources").hide();
+
   });
 
   $("#orgchartbtn").click(function () {
@@ -28,6 +31,8 @@ $(document).ready(function () {
     $("#groupphoto").hide();
     $("#orgchart").show();
     $("#Awards").hide();
+    $("#resources").hide();
+
   });
 
   $("#groupphotobtn").click(()=>{
@@ -35,11 +40,23 @@ $(document).ready(function () {
     $("#memberdirectory").hide();
     $("#orgchart").hide();
     $("#Awards").hide();
+    $("#resources").hide();
+
   })
   $("#awardsbtn").click(()=>{
     $("#groupphoto").hide();
     $("#memberdirectory").hide();
     $("#orgchart").hide();
     $("#Awards").show();
+    $("#resources").hide();
+
+  })
+  $("#resourcesbtn").click(()=>{
+    $("#groupphoto").hide();
+    $("#memberdirectory").hide();
+    $("#orgchart").hide();
+    $("#Awards").hide();
+    $("#resources").show();
+
   })
 });
