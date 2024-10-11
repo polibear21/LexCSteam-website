@@ -48,6 +48,7 @@ class Nav extends HTMLElement {
                             </li>
                             <li class="nav-item"><a class="nav-link ${document.title === "Team Activities" ? "active on-page" : ""}" href="activity.html">Team Activity</a></li>
                             <li class="nav-item"><a class="nav-link ${document.title === "Learning Center" ? "active on-page" : ""}" href="learning-center.html">Learning Center</a></li>
+
                         </ul>
                     </div>
                 </div>
