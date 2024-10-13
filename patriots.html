@@ -159,9 +159,17 @@
 
     <footer class="bg-light py-5">
         <div class="container px-4 px-lg-5">
-            <div class="small text-center text-muted">Copyright &copy; 2023 - Lexington Youth STEAM Team</div>
+            <div class="small text-center text-muted">
+                Copyright &copy; <span id="year"></span> - Lexington Youth STEAM Team
+            </div>
         </div>
     </footer>
+    
+    <script>
+        // JavaScript to dynamically insert the current year
+        document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
+    
 
     <script src="components/nav-component.js" type="text/javascript"></script>
     <!-- Bootstrap core JS-->
