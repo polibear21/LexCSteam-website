@@ -1,25 +1,4 @@
-// <title> of html files
-const projectPages = [
-    "Cary Library Foundation Student Website Tutorial And Competition",
-    "Fundraising Website Construction",
-    "Harrington PTA Website",
-    "CEL Data Analysis",
-    "Patriots’ Day Virtual Event: Miles and Smiles",
-    "Hotspots Project",
-    "Dr. Ting's Talk Project",
-    "Helpful Hands",
-    "Lexington Heroes",
-    "Lunar New Year Gala Website",
-    "Photography Exhibition",
-    "Team Website Improvement",
-    "LexYouthSTEM Team Logo Voting",
-    "AAPI Heritage Month Website",
-    "Lunar Arts Website Restoration Project",
-    "Volleyball Website",
-    "Lexington Observer",
-    "LHS Senior Seminar 2023",
-    "Lexington Lyceum Project"
-];
+
 
 const homepage = "Lexington Youth STEAM Team";
 
@@ -48,7 +27,7 @@ class Nav extends HTMLElement {
                             </li>
                             <li class="nav-item"><a class="nav-link ${document.title === "Team Activities" ? "active on-page" : ""}" href="activity.html">Team Activity</a></li>
                             <li class="nav-item"><a class="nav-link ${document.title === "Learning Center" ? "active on-page" : ""}" href="learning-center.html">Learning Center</a></li>
-
+                            <li class="nav-item"><a class="nav-link ${document.title === "Donate" ? "active on-page" : ""}" href="donate.html">Donate</a></li>
                         </ul>
                     </div>
                 </div>
