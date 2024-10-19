@@ -52,22 +52,20 @@
             <li>Donate</li>
         </ul>
     </section>
-    <hr class="divider">
-
 
     <section class="page-section" style="padding-top: 0rem" id="services">
             <div class="container px-4 px-lg-5">
-                <h2 class="text-center mt-0" style="font-size: 3rem"><b>Donate</b></h2>
+                <br><br><h2 class="text-center mt-0" style="font-size: 3rem"><b>Donate</b></h2>
                 <hr class="specialdivider" style="margin-bottom: 1.5rem; background-color:midnightblue; max-width: 50%; margin-top:0rem;">
                 </div>
                 <div class="container px-4 px-lg-5">
                     <div class="row">
                         <div class="col-lg-12">
                             <p class="mb-2" style="font-size: 18px;">
-                                We greatly appreciate all donations. Donations help us fund for projects and buy new equipment... PLACEHOLDER
+                                Supporting the Lexington Youth STEAM  team is an investment in the future of innovation and creativity. Donations will help us support us by providing essential resources like coding tools, software, more opportunities to learn, and mentorship that can let students learn all aspects of STEAM. By contributing, you are fostering a collaborative learning environment where the STEAM team can develop problem solving skills, help the community, work on real world projects, and prepare for college and future careers. The Lexington Youth Steam Team has already done many projects, but with your support, it will ensure that they have access to more opportunities to grow and make a lasting impact on the world.</p>
                                 <br><br>
     
-                            <div id="paypal-button-container" style="width: 70%; margin: 40px auto"/>
+                            <div id="paypal-button-container" style="width: 70%; margin: 40px auto">
                             <script src="https://www.paypal.com/sdk/js?client-id=AfqfD4UMmLXv74Q1vtIqyv1eHmHi0b7afv0KeMKVT6Spfhfd2_dUoecm-bmbH-PsK3_sbCJbCkSnJ-xk&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
                             <script>
                             function initPayPalButton() {
@@ -82,7 +80,7 @@
                         
                                 createOrder: function(data, actions) {
                                     return actions.order.create({
-                                    purchase_units: [{"description":"$10 Registration Fee for Cary Library Foundation Student Website Tutorial and Competition","amount":{"currency_code":"USD","value":10}}]
+                                    purchase_units: [{"description":"Donate to the Lexington Youth Steam Team","amount":{"currency_code":"USD","value":10}}]
                                     });
                                 },
                         
@@ -109,17 +107,26 @@
                             }
                             initPayPalButton();
                             </script>
+                            
                         </div>
                     </div>
+                    
                 
                 
             </section>          
 
-    <footer class="bg-light py-5">
-        <div class="container px-4 px-lg-5">
-            <div class="small text-center text-muted">Copyright &copy; 2023 - Lexington Youth STEAM Team</div>
-        </div>
-    </footer>
+            <footer class="bg-light py-5">
+                <div class="container px-4 px-lg-5">
+                    <div class="small text-center text-muted">
+                        Copyright &copy; <span id="year"></span> - Lexington Youth STEAM Team
+                    </div>
+                </div>
+            </footer>
+            
+            <script>
+                // JavaScript to dynamically insert the current year
+                document.getElementById("year").textContent = new Date().getFullYear();
+            </script>
 
     <script src="components/nav-component.js" type="text/javascript"></script>
     <!-- Bootstrap core JS-->
