@@ -1,6 +1,6 @@
 
 
-const homepage = "Youth STEAM Team";
+const homepage = "Youth STEAM Initiative";
 
 // "on-page" class prevents page reload when already on page (when user clicks in navbar again)
 // "active" styles the current page link in the navbar (highlights when on that page)
@@ -14,7 +14,7 @@ class Nav extends HTMLElement {
         this.innerHTML = `
             <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
                 <div class="container px-4 px-lg-5">
-                    <a class="navbar-brand" href="index.html">Youth STEAM Team</a>
+                    <a class="navbar-brand" href="index.html">Youth STEAM Initiative</a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
