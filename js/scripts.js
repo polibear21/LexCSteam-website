@@ -89,7 +89,3 @@ window.addEventListener('DOMContentLoaded', (event) => {
 // Set the current year dynamically
 document.getElementById("year").textContent = new Date().getFullYear();
 
-// Replace "Lexington" with an empty string or new text
-const footerTextElement = document.querySelector(".small.text-muted");
-footerTextElement.textContent = footerTextElement.textContent.replace("Lexington", ""); // Replace with "" to remove
-
