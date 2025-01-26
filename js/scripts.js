@@ -85,3 +85,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         elements: '#portfolio a.portfolio-box',
     });
 });
+
+// Set the current year dynamically
+document.getElementById("year").textContent = new Date().getFullYear();
+

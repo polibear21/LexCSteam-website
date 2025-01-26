@@ -1,1 +1,1 @@
-**Lexington Youth STEAM Team**
+**Youth STEAM Initiative**
